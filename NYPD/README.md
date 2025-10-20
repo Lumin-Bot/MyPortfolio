@@ -25,6 +25,10 @@ The analysis was part of a **COOP Group Project (September 2025)** aimed at buil
   - Tree maps: relative distribution of arrests across categories  
   - Heat maps: geographic concentrations of arrests
 
+![Dashboard](./images/NYPD_Dashboard.png)
+
+ 
+
 ## 📊 Key Insights
 - Identified **neighborhood-level arrest hotspots**.  
 - Highlighted **shifts in crime categories year-over-year**, indicating evolving enforcement priorities.  
