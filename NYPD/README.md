@@ -25,7 +25,7 @@ The analysis was part of a **COOP Group Project (September 2025)** aimed at buil
   - Tree maps: relative distribution of arrests across categories  
   - Heat maps: geographic concentrations of arrests
 
-![Dashboard](./images/NYPD_Dashboard.png)
+![Dashboard](./Images/NYPD_Dashboard.png)
 
  
 
