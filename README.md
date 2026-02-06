@@ -26,7 +26,7 @@ This portfolio is designed to:
   - Age 25–44 is the most represented demographic group across offense categories.  
 - **Deliverables:** Interactive Tableau dashboards, Excel cleaned dataset, project README.
 
-### 2. **StratusLink Communications Campaign Performance Analysis **  
+### 2. **StratusLink Communications Campaign Performance Analysis**  
 📁 [`/StratusLinkCommunications`](./StratusLinkCommunications)  
 - **Description:** Analyzed 700+ digital advertising campaign records to evaluate regional performance, ad spend efficiency, and engagement trends across multiple geographic markets.
 - **Key Skills:** Excel data cleaning & validation, KPI analysis (CTR, CPC, CPA), geographic analysis, dashboard development
