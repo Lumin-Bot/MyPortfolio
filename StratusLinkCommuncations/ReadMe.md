@@ -23,7 +23,20 @@ The analysis was completed as part of a **COOP Group Project (October 2025)**, w
 - **Excel & Tableau**:  
   - KPI analysis (CTR, CPC, CPA) to assess campaign efficiency  
   - Geographic comparisons to evaluate regional performance variation  
-  - Dashboards and spatial reports highlighting high- and low-performing markets  
+  - Dashboards and spatial reports highlighting high- and low-performing markets
+
+## 📈 Key Visuals
+The following visuals summarize key findings and dashboards developed during the analysis.
+
+![Impressions](./Slides/Impressions.png)
+
+![CPM](./Slides/CPM.png)
+
+![Engagement](./Slides/Engagement.png)
+
+![CVR](./Slides/CVR.png)
+
+![CPA](./Slides/CPA.png)
 
 ---
 
